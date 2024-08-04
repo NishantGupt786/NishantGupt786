@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nishant Gupta</h1>
 <h3 align="center">A passionate full-stack developer from India with a drive for detail.</h3>
 
-- 🌱 I’m currently working as a contractor**
+- 🌱 I’m currently learning rust and golang**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
